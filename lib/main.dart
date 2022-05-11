@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:money_managing_app/screen/home.dart';
+import 'package:money_managing_app/screens/home/home.dart';
 
 void main() {
   runApp(const MyApp());
